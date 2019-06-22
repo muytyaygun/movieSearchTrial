@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		4431FE2F22BD3EB9000357EA /* CustomActivityIndicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4431FE2E22BD3EB9000357EA /* CustomActivityIndicator.swift */; };
+		445B9A4E22BE30F300930844 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 445B9A4D22BE30F300930844 /* Info.plist */; };
 		4490AA0D22BC273C00381CDD /* Movies.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4490AA0C22BC273C00381CDD /* Movies.storyboard */; };
 		4490AA1122BC285E00381CDD /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4490AA1022BC285E00381CDD /* Constants.swift */; };
 		4490AA1422BC2BD400381CDD /* SearchedMovieCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4490AA1322BC2BD400381CDD /* SearchedMovieCell.swift */; };
@@ -36,6 +37,7 @@
 /* Begin PBXFileReference section */
 		2A5555A2AD1DD64B3DF5A281 /* Pods-Movie Searching App.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Movie Searching App.release.xcconfig"; path = "Pods/Target Support Files/Pods-Movie Searching App/Pods-Movie Searching App.release.xcconfig"; sourceTree = "<group>"; };
 		4431FE2E22BD3EB9000357EA /* CustomActivityIndicator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomActivityIndicator.swift; sourceTree = "<group>"; };
+		445B9A4D22BE30F300930844 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4490AA0C22BC273C00381CDD /* Movies.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Movies.storyboard; sourceTree = "<group>"; };
 		4490AA1022BC285E00381CDD /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		4490AA1322BC2BD400381CDD /* SearchedMovieCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchedMovieCell.swift; sourceTree = "<group>"; };
@@ -245,6 +247,7 @@
 				4490AA0E22BC27AA00381CDD /* Resources */,
 				44C4744522BC255B000E3E0F /* AppDelegate.swift */,
 				44C4744E22BC255B000E3E0F /* LaunchScreen.storyboard */,
+				445B9A4D22BE30F300930844 /* Info.plist */,
 			);
 			path = "Movie Searching App";
 			sourceTree = "<group>";
@@ -347,6 +350,7 @@
 				44C4745022BC255B000E3E0F /* LaunchScreen.storyboard in Resources */,
 				4490AA1B22BC2CAC00381CDD /* SearchedMovieCell.xib in Resources */,
 				4490AA0D22BC273C00381CDD /* Movies.storyboard in Resources */,
+				445B9A4E22BE30F300930844 /* Info.plist in Resources */,
 				44C4744D22BC255B000E3E0F /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
