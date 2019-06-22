@@ -56,7 +56,6 @@
 		44C4744522BC255B000E3E0F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		44C4744C22BC255B000E3E0F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		44C4744F22BC255B000E3E0F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		44C4745122BC255B000E3E0F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		44C4745922BC257C000E3E0F /* BaseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
 		44C4745B22BC2588000E3E0F /* MovieDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDetailViewController.swift; sourceTree = "<group>"; };
 		44C4745D22BC2597000E3E0F /* MovieSearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieSearchViewController.swift; sourceTree = "<group>"; };
@@ -246,7 +245,6 @@
 				4490AA0E22BC27AA00381CDD /* Resources */,
 				44C4744522BC255B000E3E0F /* AppDelegate.swift */,
 				44C4744E22BC255B000E3E0F /* LaunchScreen.storyboard */,
-				44C4745122BC255B000E3E0F /* Info.plist */,
 			);
 			path = "Movie Searching App";
 			sourceTree = "<group>";
