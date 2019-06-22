@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		4431FE2F22BD3EB9000357EA /* CustomActivityIndicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4431FE2E22BD3EB9000357EA /* CustomActivityIndicator.swift */; };
-		445B9A4E22BE30F300930844 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 445B9A4D22BE30F300930844 /* Info.plist */; };
 		4490AA0D22BC273C00381CDD /* Movies.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4490AA0C22BC273C00381CDD /* Movies.storyboard */; };
 		4490AA1122BC285E00381CDD /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4490AA1022BC285E00381CDD /* Constants.swift */; };
 		4490AA1422BC2BD400381CDD /* SearchedMovieCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4490AA1322BC2BD400381CDD /* SearchedMovieCell.swift */; };
@@ -350,7 +349,6 @@
 				44C4745022BC255B000E3E0F /* LaunchScreen.storyboard in Resources */,
 				4490AA1B22BC2CAC00381CDD /* SearchedMovieCell.xib in Resources */,
 				4490AA0D22BC273C00381CDD /* Movies.storyboard in Resources */,
-				445B9A4E22BE30F300930844 /* Info.plist in Resources */,
 				44C4744D22BC255B000E3E0F /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
